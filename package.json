@@ -1,0 +1,26 @@
+{
+  "name": "npmexample",
+  "version": "1.0.0",
+  "description": "Node Package Manager example",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannertech/npmexample.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Diamonique Danner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannertech/npmexample/issues"
+  },
+  "homepage": "https://github.com/dannertech/npmexample#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
